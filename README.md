@@ -1,7 +1,11 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# A Hands-On Introduction to Hugging Face for Developers
+This is the repository for the LinkedIn Learning course `A Hands-On Introduction to Hugging Face for Developers`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
+
+## Course Description
+
+Unlock the power of state-of-the-art natural language processing with "Hugging Face for Developers." In this course, Dhhyey Desai—a Google-certified Python expert and a Microsoft-certified instructor—provides a comprehensive introduction to the Hugging Face ecosystem, including its key features and benefits. Find out how to navigate the Model Hub, work with datasets, and fine-tune pre-trained models for various NLP tasks. Plus, complete a final project where you'll develop a conversational AI using the advanced Llama 3 model. Whether you're a beginner or an experienced developer, this course will equip you with the skills to leverage Hugging Face in your projects.
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -22,15 +26,19 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Instructor
+
+Dhhyey Desai
+
+Google-Certified Python Expert, Microsoft-Certified Instructor
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dhhyey-desai?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/a-hands-on-introduction-to-hugging-face-for-developers
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQEWLQH7MJKncg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732137725922?e=2147483647&v=beta&t=L_0yTrVxmVbM0XDcZSGa-gp2qVQaz-L4Pwv4BCu7iEk
 
